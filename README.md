@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Youtube - Marcus NG: https://www.youtube.com/watch?v=CSa6Ocyog4U&list=PLzOt3noWLMthJKm8SJl2zmUlJiZp7fzo7&index=3
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
