@@ -66,10 +66,10 @@ List<Destination> destinations = [
     activities: activities,
   ),
   Destination(
-    imageUrl: 'assets/images/saopaolo.jpg',
-    city: 'Sao Paolo',
+    imageUrl: 'assets/images/saopaulo.jpg',
+    city: 'Sao Paulo',
     country: 'Brazil',
-    description: 'Visit Sao Paolo for an unforgottable adventure.',
+    description: 'Visit Sao Paulo for an unforgottable adventure.',
     activities: activities,
   ),
   Destination(
